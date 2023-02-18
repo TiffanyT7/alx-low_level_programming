@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Program that prints alphabet in lower and uppercase
+ * Program that prints base 10 numbers
  * Return: Always 0 (Success)
  */
 
