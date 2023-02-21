@@ -5,3 +5,4 @@ Project 0x02. C - Functions, nested loops
 3. islower: Write a function that checks for lowercase character.
 
 
+4. isalpha: Write a function that checks for alphabetic character.
