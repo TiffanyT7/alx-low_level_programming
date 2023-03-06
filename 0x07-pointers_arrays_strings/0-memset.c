@@ -11,12 +11,17 @@
  */
 char *_memset(char *s, char b, unsigned int n)
 {
-	char b[5] = "0x01";
+	char a[95] = {0x01};
 
+	b = 50;
+	for (b = 0; b <= 50; b++)
+	{
+		_putchar('-');
+	}
 	n = 95;
 	for (n = 0; n <= 95; n++)
 	{
-		_putchar(b[5]);
+		_putchar(a[95]);
 	}
 	_putchar('\n');
 
