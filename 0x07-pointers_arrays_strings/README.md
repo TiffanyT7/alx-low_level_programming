@@ -1,4 +1,4 @@
-Project 0x07. C - Even more pointers, arrasy and strings
+Project 0x07. C - Even more pointers, arrays and strings
 
 Tasks:
 
