@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * _strcpy - Copiar el contenido de uno a otra variable
+ * _strcpy - Copies string to dest
  * @dest: This is destiny
  * @src: This is the copy
- * Return: This return copy
+ * Return: start
  */
 char *_strcpy(char *dest, char *src)
 {
